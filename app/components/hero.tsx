@@ -1,9 +1,9 @@
-import fotosaya from "./app/rizky.jpg"
+import React from 'react';
 
 function Profile() {
     return (
       <img
-        src={fotosaya.src}
+        src="/rizky.jpg"
         alt="rizky"
         className="fotoku"
       />
